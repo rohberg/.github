@@ -1,1 +1,1 @@
-Hi, this is Rohberg, a Plone agency from Zurich.
+Rohberg, a Plone agency from Zurich.
