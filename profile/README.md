@@ -14,3 +14,5 @@ Katja
   - active in @plone/documentation-team
 
 
+Training for Plone developers: [Mastering Plone Development](https://training.plone.org/5/mastering-plone/video.html)
+
