@@ -15,9 +15,7 @@ Katja
   - Co-Trainer of "Mastering Plone Development"
 
 
-Training for Plone developers:
 
-[Mastering Plone Development, written](https://training.plone.org/5/mastering-plone/)
-
-[Mastering Plone Development, spoken](https://www.youtube.com/watch?v=IEcGKzo3PO0&t=1s)
+- [Mastering Plone Development, written](https://training.plone.org/5/mastering-plone/)
+- [Mastering Plone Development, spoken](https://www.youtube.com/watch?v=IEcGKzo3PO0&t=1s)
 
