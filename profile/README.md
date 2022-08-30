@@ -12,7 +12,10 @@ Katja
   - active in @plone/volto-team
   - active in @plone/training-team
   - active in @plone/documentation-team
+  - Co-Trainer of "Mastering Plone Development"
 
 
-Training for Plone developers: [Mastering Plone Development](https://training.plone.org/5/mastering-plone/video.html)
+Training for Plone developers: 
+[Mastering Plone Development, written](https://training.plone.org/5/mastering-plone/)
+[Mastering Plone Development, spoken](https://www.youtube.com/watch?v=IEcGKzo3PO0&t=1s)
 
