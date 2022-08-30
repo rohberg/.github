@@ -16,5 +16,5 @@ Katja
 
 
 [^Mastering]: Mastering Plone Development [written training documentation](https://training.plone.org/5/mastering-plone/)
-  [recorded training during last Plone Conference](https://www.youtube.com/watch?v=IEcGKzo3PO0&t=1s)
+  recorded training during last Plone Conference [YT](https://www.youtube.com/watch?v=IEcGKzo3PO0&t=1s)
 
