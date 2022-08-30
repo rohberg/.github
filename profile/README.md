@@ -1,7 +1,5 @@
 # Content to the web!
 
-## Hi!
-
 It's your content. We create a web presentation of your content. 
 
 Rohberg is a web agency from Zurich and remote.
